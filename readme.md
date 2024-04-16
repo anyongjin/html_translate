@@ -5,7 +5,8 @@
 ## 如何使用
 #### 安装
 ```shell
-pip install html_translate
+pip install -r requirements.txt
+python setup.py install
 ```
 #### 开通百度云-文本翻译服务
 注册账号实名后赠送100W字符的免费翻译额度。
